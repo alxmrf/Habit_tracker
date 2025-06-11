@@ -1,6 +1,6 @@
 ## About The Project
 
-Alexandre 'Kinsa' had this awesome idea to make a project about a Habit Tracker for desktop, and he invited Banr to be part of it. So, they started building it ;)
+Alexandre 'Kinsa' had this awesome idea to make a project about a Habit Tracker for desktop, and he invited 'Banr' to be part of it. So, they started building it ;)
 
 What are gonna be the main points of our Habit Tracker:
 * It's open source
