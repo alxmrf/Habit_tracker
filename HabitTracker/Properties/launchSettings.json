@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HabitTracker (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "HabitTracker (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
