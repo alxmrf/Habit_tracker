@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-06-12T20:20:18.774</Modified>
+      <Modified>2025-06-12T22:32:25.884</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-06-12T20:20:18.566</Modified>
+      <Modified>2025-06-12T21:41:11.774</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\mainCode.runtimeconfig.json">
       <PackagePath>mainCode.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\mainCode.dll">
       <PackagePath>mainCode.dll</PackagePath>
-      <Modified>2025-06-12T20:20:18.271</Modified>
+      <Modified>2025-06-12T22:32:25.524</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\apphost.exe">
       <PackagePath>mainCode.exe</PackagePath>
-      <Modified>2025-06-12T20:20:18.319</Modified>
+      <Modified>2025-06-12T22:32:25.562</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rodrigo\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.15\runtimes\win-x64\lib\net8.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -908,7 +908,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\mainCode.deps.json">
       <PackagePath>mainCode.deps.json</PackagePath>
-      <Modified>2025-06-12T18:08:37.718</Modified>
+      <Modified>2025-06-12T20:50:13.403</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>

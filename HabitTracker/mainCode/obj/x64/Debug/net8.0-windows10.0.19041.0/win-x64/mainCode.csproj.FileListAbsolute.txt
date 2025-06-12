@@ -259,3 +259,8 @@ C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\obj\x64\De
 C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\qualifiers.txt.intermediate
 C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\ProjectArchitectures.txt
+C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\SettingsPage.g.i.cs
+C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\SettingsPage.g.cs
+C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\SettingsPage.xaml
+C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\SettingsPage.xbf
+C:\Users\Rodrigo\Documents\GitHub\Habit_tracker\HabitTracker\mainCode\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\SettingsPage.xbf

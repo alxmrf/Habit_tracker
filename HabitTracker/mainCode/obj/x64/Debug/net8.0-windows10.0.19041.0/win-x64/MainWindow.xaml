@@ -9,17 +9,32 @@
     mc:Ignorable="d"
     Title="Habit Tracker">
 
-    <SplitView x:ConnectionId='2' x:Name="splitView" DisplayMode="CompactOverlay" IsPaneOpen="True" PanePlacement="Right">
-        <SplitView.Pane>
-            <StackPanel>
-                <Button Content="Menu Item1" Tag="SamplePage1" />
-                <Button Content="Menu Item2" Tag="SamplePage2" />
-                <Button Content="Menu Item3" Tag="SamplePage3" />
-                <Button Content="Menu Item4" Tag="SamplePage4" />
-            </StackPanel>
-        </SplitView.Pane>
-        <Frame x:ConnectionId='3' x:Name="contentFrame"/>
-    </SplitView>
 
+
+    <NavigationView x:ConnectionId='2' x:Name="nvSample"
+                FlowDirection="RightToLeft"
+                IsSettingsVisible="True"
+                                                  >
+
+        <NavigationView.MenuItems>
+            <NavigationViewItem Icon="Play" Content="Menu Item1" Tag="SamplePage1" />
+            <NavigationViewItem Icon="Save" Content="Menu Item2" Tag="SamplePage2" />
+            <NavigationViewItem Icon="Refresh" Content="Menu Item3" Tag="SamplePage3" />
+            <NavigationViewItem Icon="Download" Content="Menu Item4" Tag="SamplePage4" />
+        </NavigationView.MenuItems>
+
+        <NavigationView.Content>
+            <StackPanel>
+                <!-- App Title -->
+                <TextBlock Text="Habit Tracker"
+                       FontSize="24"
+                       FontWeight="Bold"
+                       Margin="10,10,10,0"/>
+
+                <!-- Page Frame -->
+                <Frame x:ConnectionId='3' x:Name="contentFrame"/>
+            </StackPanel>
+        </NavigationView.Content>
+    </NavigationView>
 </Window>
 
